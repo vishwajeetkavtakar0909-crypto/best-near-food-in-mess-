@@ -1,0 +1,9 @@
+{
+  "name": "BEST_J1 - Daily Mess Locator & Manager",
+  "description": "A comprehensive platform for finding local daily messes and tiffin services. Owners can manage daily menus (breakfast, lunch, dinner) and users can browse nearby options, see prices, and leave feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
